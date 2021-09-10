@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BorisKotlyarov/typed-bumburum.git"
+    "url": "git+https://github.com/BorisKotlyarov/types-bumburum.git"
   },
   "author": "Boris Kotlyarov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BorisKotlyarov/typed-bumburum/issues"
+    "url": "https://github.com/BorisKotlyarov/types-bumburum/issues"
   },
-  "homepage": "https://github.com/BorisKotlyarov/typed-bumburum#readme"
+  "homepage": "https://github.com/BorisKotlyarov/types-bumburum#readme"
 }
