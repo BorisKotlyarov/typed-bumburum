@@ -3,7 +3,7 @@
 // Definitions by: Kotlyarov Boris <https://github.com/BorisKotlyarov>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
-export = Bumburum;
+export default Bumburum;
 export as namespace bumburum;
 
 declare namespace Bumburum {
