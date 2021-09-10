@@ -9,6 +9,7 @@
     "strictNullChecks": false,
     "strictFunctionTypes": true,
     "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
     "baseUrl": "../",
     "typeRoots": [
       "../"
